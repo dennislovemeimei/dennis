@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My story",
-    "description": "Welcome to our new blog, My story. Time does fly, but memory lasts forever",
-    "author": [
-      {
-        "name": "Jiang Yueyang",
-        "url": {}
-      }
-    ],
-    "date": "2022-04-07",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2022-04-07T22:43:52+08:00",
-    "input_file": "welcome.knit.md"
-  },
-  {
     "path": "posts/2022-04-07-apologize/",
     "title": "Apologize Letter",
     "description": "Sorry meimei, dennis is stupid.",
@@ -31,6 +14,23 @@
     "contents": "\r\nSorry, meimei\r\n不要乱发表情\r\n说些温柔的话\r\n多为梅梅着想\r\n不要抗争\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2022-04-07T23:31:17+08:00",
-    "input_file": "apologize.knit.md"
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My story",
+    "description": "Welcome to our new blog, My story. Time does fly, but memory lasts forever",
+    "author": [
+      {
+        "name": "Jiang Yueyang",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-07",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-04-07T22:43:52+08:00",
+    "input_file": {}
   }
 ]

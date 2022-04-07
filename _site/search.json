@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "This is a personal blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-07T22:36:17+08:00"
+      "last_modified": "2022-04-07T23:33:43+08:00"
     },
     {
       "path": "index.html",
       "title": "My story",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-07T22:36:17+08:00"
+      "last_modified": "2022-04-07T23:31:17+08:00"
     }
   ],
   "collections": ["posts/posts.json"]
