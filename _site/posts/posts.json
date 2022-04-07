@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to My story",
-    "description": "Welcome to our new blog, My story. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to our new blog, My story. Time does fly, but memory lasts forever",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Jiang Yueyang",
+        "url": {}
       }
     ],
     "date": "2022-04-07",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-04-07T22:36:16+08:00",
-    "input_file": {}
+    "last_modified": "2022-04-07T22:43:52+08:00",
+    "input_file": "welcome.knit.md"
   }
 ]

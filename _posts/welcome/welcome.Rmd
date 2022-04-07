@@ -1,13 +1,12 @@
 ---
 title: "Welcome to My story"
 description: |
-  Welcome to our new blog, My story. We hope you enjoy 
-  reading what we have to say!
+  Welcome to our new blog, My story. Time does fly, but memory lasts forever 
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Jiang Yueyang 
+    url: 
+    affiliation: 
+    affiliation_url: 
 date: 04-07-2022
 output:
   distill::distill_article:
