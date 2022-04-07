@@ -1,0 +1,25 @@
+---
+title: "Apologize Letter"
+description: |
+  Sorry meimei, dennis is stupid.
+author:
+  - name: Jiang Yueyang
+    url: {}
+date: 2022-04-07
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Sorry, meimei
+
+- Do not send emojis
+- Say something, not just repeat stupid words
+- Do not fight
+
+
