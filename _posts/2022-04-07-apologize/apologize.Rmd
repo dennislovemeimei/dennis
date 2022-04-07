@@ -18,8 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Sorry, meimei
 
-- Do not send emojis
-- Say something, not just repeat stupid words
-- Do not fight
-
+- 不要乱发表情
+- 说些温柔的话
+- 多为梅梅着想
+- 不要抗争
 
